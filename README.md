@@ -5,3 +5,4 @@ Created by: Haniff Zain (The Architect)
 - Final Identity: Official Hubuntu SVG Logo implemented system-wide
 - Final Identity: Official Hubuntu SVG Logo implemented system-wide
 - Final Identity: Official Hubuntu SVG Logo implemented system-wide
+- Fix: Resolved imlib2-dev dependency mismatch (used libimlib2-dev)
