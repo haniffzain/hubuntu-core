@@ -1,0 +1,23 @@
+{
+    "logo": {
+        "source": "           ██\n          ██  ██\n   ████████   ██\n  ██            ██\n ██   ██████████\n ██  ██  ██████\n ██  ██ ██  ██  ██\n ██  ████   ████ ██\n  ██      ██  ██\n   ██████  ██ \n          ██  \n         ██   \n        ██    \n       ██ ████████\n      ██         ██\n       █████████",
+        "padding": {
+            "top": 2,
+            "right": 4
+        }
+    },
+    "modules": [
+        "title",
+        "separator",
+        "os",
+        "host",
+        "kernel",
+        "uptime",
+        "packages",
+        "shell",
+        "de",
+        "terminal",
+        "memory",
+        "colors"
+    ]
+}
